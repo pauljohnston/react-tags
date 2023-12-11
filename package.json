@@ -37,8 +37,8 @@
   "repository": "https://github.com/react-tags/react-tags",
   "peerDependencies": {
     "react": "^17.0.2 || ^18.2.0",
-    "react-dnd": "^14.0.2",
-    "react-dnd-html5-backend": "^14.0.0",
+    "react-dnd": "^14.0.2 || ^16.0.1",
+    "react-dnd-html5-backend": "^14.0.0 || ^16.0.1",
     "react-dom": "17.0.2 || ^18.2.0"
   },
   "dependencies": {
